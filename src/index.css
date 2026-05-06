@@ -13,6 +13,20 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.dark {
+  color: #213547;
+  background-color: #ffffff;
+}
+
+.dark button {
+  background-color: #f9f9f9;
+  color: #213547;
+}
+
+.dark button:hover {
+  border-color: #646cff;
+}
+
 a {
   font-weight: 500;
   color: #646cff;
